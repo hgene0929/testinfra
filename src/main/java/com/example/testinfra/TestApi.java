@@ -8,6 +8,6 @@ public class TestApi {
 
 	@GetMapping("/")
 	public String test() {
-		return "[spring boot - jenkins] CICD SUCCEEDED!!";
+		return "[spring boot - jenkins cicd] SUCCEEDED!!";
 	}
 }
