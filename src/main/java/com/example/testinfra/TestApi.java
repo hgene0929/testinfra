@@ -20,6 +20,6 @@ public class TestApi {
 
 		testEntityRepository.save(testEntity);
 
-		return "BUILD SUCCEEDED!!!!";
+		return "BUILD SUCCEEDED!!!!!!";
 	}
 }
